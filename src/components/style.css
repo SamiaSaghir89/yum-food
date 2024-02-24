@@ -1,0 +1,19 @@
+.navbar{
+    background-color: #F94C10;
+    width: 100%;
+   height: 60px;
+}
+#carousel{
+max-height: 550px;
+
+}
+.footer{
+    background-color: #F94C10;
+    
+}
+.text{
+    color: white;
+}
+.button{
+    background-color: #F94C10;
+}
